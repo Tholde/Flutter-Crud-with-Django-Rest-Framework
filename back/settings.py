@@ -174,9 +174,9 @@ SITE_NAME = 'Ambanimaso Ultimate Authentication Project'
 
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_USER = 'tholde.pathfinder@gmail.com'
-EMAIL_HOST_PASSWORD = 'sqgz xiyq ngbh dfne'
+EMAIL_HOST_USER = 'your e-mail'
+EMAIL_HOST_PASSWORD = 'your password'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_USE_SSL = False
-DEFAULT_FROM_EMAIL = 'tholde.pathfinder@gmail.com'
+DEFAULT_FROM_EMAIL = 'your e-mail'
